@@ -1,0 +1,11 @@
+# .gitignore
+
+.terraform/
+.terraform.lock.h5
+terraform.tfstate
+terraform.tfstate.backup
+
+*.tfvars
+*.pem
+
+.DS_Store
