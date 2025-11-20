@@ -4,6 +4,7 @@
 .terraform.lock.h5
 terraform.tfstate
 terraform.tfstate.backup
+variables.tf
 
 *.tfvars
 *.pem
